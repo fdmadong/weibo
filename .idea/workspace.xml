@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdb7b2a9-1860-45f2-877a-48a6db07fb85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/shared/_user_info.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634224325040</updated>
       <workItem from="1634224326595" duration="678000" />
-      <workItem from="1634230927573" duration="6590000" />
+      <workItem from="1634230927573" duration="11061000" />
     </task>
     <servers />
   </component>
@@ -161,9 +167,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="297" key="NewPhpFileDialog" timestamp="1634649863814">
-      <screen x="0" y="25" width="1280" height="724" />
+    <state x="461" y="297" key="NewPhpFileDialog" timestamp="1634865529613">
+      <screen x="0" y="25" width="1280" height="725" />
     </state>
     <state x="461" y="297" key="NewPhpFileDialog/0.25.1280.724@0.25.1280.724" timestamp="1634649863814" />
+    <state x="461" y="297" key="NewPhpFileDialog/0.25.1280.725@0.25.1280.725" timestamp="1634865529613" />
+    <state x="341" y="165" width="597" height="490" key="find.popup" timestamp="1634865476254">
+      <screen x="0" y="25" width="1280" height="725" />
+    </state>
+    <state x="341" y="165" width="597" height="490" key="find.popup/0.25.1280.725@0.25.1280.725" timestamp="1634865476254" />
   </component>
 </project>
