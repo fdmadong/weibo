@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdb7b2a9-1860-45f2-877a-48a6db07fb85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/users/_user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/users/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +165,7 @@
       <workItem from="1634883344788" duration="9000" />
       <workItem from="1634884265882" duration="1805000" />
       <workItem from="1635090540203" duration="1182000" />
-      <workItem from="1635093113835" duration="20545000" />
+      <workItem from="1635093113835" duration="23330000" />
     </task>
     <servers />
   </component>
@@ -172,18 +173,23 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="297" key="NewPhpFileDialog" timestamp="1635727420303">
-      <screen x="0" y="25" width="1280" height="725" />
+    <state x="461" y="297" key="NewPhpFileDialog" timestamp="1635834544820">
+      <screen x="0" y="25" width="1280" height="726" />
     </state>
     <state x="461" y="295" key="NewPhpFileDialog/0.25.1280.721@0.25.1280.721" timestamp="1635090628500" />
     <state x="461" y="296" key="NewPhpFileDialog/0.25.1280.724/-1194.25.1194.809@0.25.1280.724" timestamp="1635146766910" />
     <state x="461" y="297" key="NewPhpFileDialog/0.25.1280.724@0.25.1280.724" timestamp="1634649863814" />
     <state x="461" y="297" key="NewPhpFileDialog/0.25.1280.725/-1194.25.1194.809@0.25.1280.725" timestamp="1635727420303" />
     <state x="461" y="297" key="NewPhpFileDialog/0.25.1280.725@0.25.1280.725" timestamp="1634865529613" />
+    <state x="461" y="297" key="NewPhpFileDialog/0.25.1280.726/-1194.25.1194.809@0.25.1280.726" timestamp="1635834544820" />
     <state x="461" y="298" key="NewPhpFileDialog/0.25.1280.729@0.25.1280.729" timestamp="1635219695270" />
     <state x="341" y="165" width="597" height="490" key="find.popup" timestamp="1634865476254">
       <screen x="0" y="25" width="1280" height="725" />
     </state>
     <state x="341" y="165" width="597" height="490" key="find.popup/0.25.1280.725@0.25.1280.725" timestamp="1634865476254" />
+    <state x="306" y="75" width="670" height="676" key="search.everywhere.popup" timestamp="1635834105599">
+      <screen x="0" y="25" width="1280" height="726" />
+    </state>
+    <state x="306" y="75" width="670" height="676" key="search.everywhere.popup/0.25.1280.726/-1194.25.1194.809@0.25.1280.726" timestamp="1635834105599" />
   </component>
 </project>
